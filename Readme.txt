@@ -1,22 +1,4 @@
-# Bank Account Management System
 
-This is a simple command-line-based Bank Account Management System written in Python. It allows users to create bank accounts, perform transactions, and search for account details.
-
-## Features
-
-- Create new bank accounts with various details.
-- Delete existing accounts.
-- Update account holder information such as name, address, and date of birth.
-- Deposit and withdraw funds.
-- Transfer funds between accounts.
-- Search for account details by account number, account holder name, or account type.
-- Check account balances.
-
-
-Creating a README file is a good practice to document and provide information about your code, its functionality, and how to use it. Below is a sample README file for your bank account management system code:
-
-markdown
-Copy code
 # Bank Account Management System
 
 This is a simple command-line-based Bank Account Management System written in Python. It allows users to create bank accounts, perform transactions, and search for account details.
